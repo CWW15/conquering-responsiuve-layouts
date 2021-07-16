@@ -24,9 +24,10 @@ body {
 .container {
   background: #23424a;
   color: white;
-  width: 75%;
-  margin: 5em auto;
-  padding: 2em;
+  width: 80%;
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 3em;
   height: auto;
   
 }

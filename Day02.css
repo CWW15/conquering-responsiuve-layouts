@@ -58,12 +58,13 @@ body {
 }
 
 .col--em {
-  
+ 
 }
 
 .col--em h1 {
   font-size: 2.5em;
   margin-bottom: 1em;
+  
 }
 
 .col--em p {
@@ -126,6 +127,7 @@ h1 {
   text-transform: uppercase;
   text-decoration: none;
 
+
   padding: 1em 3em;
   
   margin: 0 .25rem;
@@ -137,4 +139,8 @@ h1 {
 
 .btn--lrg {
   font-size: 1.5em;
+}
+
+.btn--small{
+  font-family:'Courier New', Courier, monospace
 }
